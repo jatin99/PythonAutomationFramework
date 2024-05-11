@@ -1,0 +1,1327 @@
+2022-06-06 13:36:18,908 :INFO : test_e2e :UserNavigated to login page
+2022-06-06 13:36:23,067 :INFO : test_e2e :Logged in Successfully
+2022-06-06 13:36:28,167 :INFO : test_e2e :Clicked on workspace
+2022-06-06 13:36:28,167 :INFO : test_e2e :Wait Till O9 left bar is visible
+2022-06-06 13:36:28,167 :INFO : test_e2e :Navigating to DemandPlanning WS
+2022-06-06 13:36:28,302 :INFO : test_e2e :Navigated to Demand planning WS
+2022-06-06 13:36:28,321 :INFO : test_DashboardSettings :select Dashboard setting option
+2022-06-06 13:36:30,359 :INFO : test_DashboardSettings :Navigated to Dashboard Settings
+2022-06-06 13:36:30,538 :INFO : test_DashboardSettings :Both the views are displayed right on the UI
+2022-06-06 13:36:31,309 :INFO : test_DashboardSettings :3 sub views are verified on Forecast parameters view
+2022-06-06 13:36:31,963 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-06 13:36:31,972 :INFO : test_DashboardSettings :All the columns are seen right in the LM Forecast to Demand History Tolerance Level view
+2022-06-07 13:56:27,328 :INFO : test_e2e :UserNavigated to login page
+2022-06-07 13:56:31,632 :INFO : test_e2e :Logged in Successfully
+2022-06-07 13:56:36,769 :INFO : test_e2e :Clicked on workspace
+2022-06-07 13:56:36,769 :INFO : test_e2e :Wait Till O9 left bar is visible
+2022-06-07 13:56:36,769 :INFO : test_e2e :Navigating to DemandPlanning WS
+2022-06-07 13:56:36,916 :INFO : test_e2e :Navigated to Demand planning WS
+2022-06-07 13:56:36,929 :INFO : test_DashboardSettings :select Dashboard setting option
+2022-06-07 13:56:38,798 :INFO : test_DashboardSettings :Navigated to Dashboard Settings
+2022-06-07 13:56:38,967 :INFO : test_DashboardSettings :Both the views are displayed right on the UI
+2022-06-07 13:56:39,773 :INFO : test_DashboardSettings :3 sub views are verified on Forecast parameters view
+2022-06-07 13:56:39,837 :INFO : test_DashboardSettings :Validations on LM Forecast to Demand History Tolerance Level
+2022-06-07 13:57:01,164 :INFO : test_e2e :UserNavigated to login page
+2022-06-07 13:57:05,184 :INFO : test_e2e :Logged in Successfully
+2022-06-07 13:57:10,382 :INFO : test_e2e :Clicked on workspace
+2022-06-07 13:57:10,384 :INFO : test_e2e :Wait Till O9 left bar is visible
+2022-06-07 13:57:10,384 :INFO : test_e2e :Navigating to DemandPlanning WS
+2022-06-07 13:57:10,458 :INFO : test_e2e :Navigated to Demand planning WS
+2022-06-07 13:57:10,468 :INFO : test_DashboardSettings :select Dashboard setting option
+2022-06-07 13:57:12,147 :INFO : test_DashboardSettings :Navigated to Dashboard Settings
+2022-06-07 13:57:12,315 :INFO : test_DashboardSettings :Both the views are displayed right on the UI
+2022-06-07 13:57:13,138 :INFO : test_DashboardSettings :3 sub views are verified on Forecast parameters view
+2022-06-07 13:57:13,209 :INFO : test_DashboardSettings :Validations on LM Forecast to Demand History Tolerance Level
+2022-06-07 13:57:14,006 :INFO : test_DashboardSettings :UI elements validated for LM Forecast to Demand History Tolerance Level
+2022-06-07 13:57:14,006 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-07 13:57:14,015 :INFO : test_DashboardSettings :All the columns are seen right in the LM Forecast to Demand History Tolerance Level view
+2022-06-07 13:57:15,198 :INFO : test_DashboardSettings :Value updated in Red limit field and saved
+2022-06-07 13:57:19,345 :INFO : test_DashboardSettings :Value updated in Yellow limit field and saved
+2022-06-07 13:57:19,346 :INFO : test_DashboardSettings :Test case on LW Forecast to Demand History Tolerance Level
+2022-06-07 13:57:19,711 :INFO : test_DashboardSettings :Validations on LW Forecast to Demand History Tolerance Level
+2022-06-07 13:57:19,785 :INFO : test_DashboardSettings :UI elements validated for LW Forecast to Demand History Tolerance Level
+2022-06-07 13:57:19,785 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-07 13:57:19,800 :INFO : test_DashboardSettings :All the columns are seen right in the LW Forecast to Demand History Tolerance Level view
+2022-06-07 13:57:20,965 :INFO : test_DashboardSettings :Value updated in Red limit field and saved
+2022-06-07 13:57:25,178 :INFO : test_DashboardSettings :Value updated in Yellow limit field and saved
+2022-06-07 13:57:25,178 :INFO : test_DashboardSettings :Test Cases on Cycle over Cycle Forecast Variance Tolerance Level
+2022-06-07 13:57:25,517 :INFO : test_DashboardSettings :Validations on Cycle over Cycle Forecast Variance Tolerance Level
+2022-06-07 13:57:25,613 :INFO : test_DashboardSettings :UI elements validated for Cycle over Cycle Forecast Variance Tolerance Level
+2022-06-07 13:57:25,613 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-07 13:57:25,626 :INFO : test_DashboardSettings :All the columns are seen right in the Cycle over Cycle Forecast Variance Tolerance Level view
+2022-06-07 13:57:26,947 :INFO : test_DashboardSettings :Value updated in Red limit field and saved
+2022-06-07 13:57:31,078 :INFO : test_DashboardSettings :Value updated in Yellow limit field and saved
+2022-06-07 16:47:10,626 :INFO : test_e2e :UserNavigated to login page
+2022-06-07 16:47:15,335 :INFO : test_e2e :Logged in Successfully
+2022-06-07 16:47:20,507 :INFO : test_e2e :Clicked on workspace
+2022-06-07 16:47:20,507 :INFO : test_e2e :Wait Till O9 left bar is visible
+2022-06-07 16:47:20,507 :INFO : test_e2e :Navigating to DemandPlanning WS
+2022-06-07 16:47:20,613 :INFO : test_e2e :Navigated to Demand planning WS
+2022-06-07 16:47:20,637 :INFO : test_DashboardSettings :select Dashboard setting option
+2022-06-07 16:47:22,624 :INFO : test_DashboardSettings :Navigated to Dashboard Settings
+2022-06-07 16:47:22,853 :INFO : test_DashboardSettings :Both the views are displayed right on the UI
+2022-06-07 16:47:23,677 :INFO : test_DashboardSettings :3 sub views are verified on Forecast parameters view
+2022-06-07 16:47:23,783 :INFO : test_DashboardSettings :Validations on LM Forecast to Demand History Tolerance Level
+2022-06-08 19:21:32,865 :INFO : test_e2e :UserNavigated to login page
+2022-06-08 19:21:36,998 :INFO : test_e2e :Logged in Successfully
+2022-06-08 19:21:42,114 :INFO : test_e2e :Clicked on workspace
+2022-06-08 19:21:42,114 :INFO : test_e2e :Wait Till O9 left bar is visible
+2022-06-08 19:21:42,114 :INFO : test_e2e :Navigating to DemandPlanning WS
+2022-06-08 19:21:42,254 :INFO : test_e2e :Navigated to Demand planning WS
+2022-06-08 19:21:42,265 :INFO : test_DashboardSettings :View Forecast Parameters
+2022-06-08 19:21:42,265 :INFO : test_DashboardSettings :select Dashboard setting option
+2022-06-08 19:21:44,105 :INFO : test_DashboardSettings :Navigated to Dashboard Settings
+2022-06-08 19:21:44,250 :INFO : test_DashboardSettings :Both the views are displayed right on the UI
+2022-06-08 19:21:44,968 :INFO : test_DashboardSettings :3 sub views are verified on Forecast parameters view
+2022-06-08 19:21:45,047 :INFO : test_DashboardSettings :Validations on LM Forecast to Demand History Tolerance Level
+2022-06-08 19:21:45,851 :INFO : test_DashboardSettings :UI elements validated for LM Forecast to Demand History Tolerance Level
+2022-06-08 19:21:45,851 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-08 19:21:45,861 :INFO : test_DashboardSettings :All the columns are seen right in the LM Forecast to Demand History Tolerance Level view
+2022-06-08 19:21:47,130 :INFO : test_DashboardSettings :Value updated in Variance Indicator-Red Tolerance Limit and saved
+2022-06-08 19:21:51,316 :INFO : test_DashboardSettings :Value updated in Variance Indicator-Yellow Tolerance Limit and saved
+2022-06-08 19:21:51,316 :INFO : test_DashboardSettings :Test case on LW Forecast to Demand History Tolerance Level
+2022-06-08 19:21:51,737 :INFO : test_DashboardSettings :Validations on LW Forecast to Demand History Tolerance Level
+2022-06-08 19:21:51,835 :INFO : test_DashboardSettings :UI elements validated for LW Forecast to Demand History Tolerance Level
+2022-06-08 19:21:51,835 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-08 19:21:51,851 :INFO : test_DashboardSettings :All the columns are seen right in the LW Forecast to Demand History Tolerance Level view
+2022-06-08 19:21:53,006 :INFO : test_DashboardSettings :Value updated in Variance Indicator-Red Tolerance Limit and saved
+2022-06-08 19:21:57,173 :INFO : test_DashboardSettings :Value updated in Variance Indicator-Yellow Tolerance Limit field and saved
+2022-06-08 19:21:57,173 :INFO : test_DashboardSettings :Test Cases on Cycle over Cycle Forecast Variance Tolerance Level
+2022-06-08 19:21:57,551 :INFO : test_DashboardSettings :Validations on Cycle over Cycle Forecast Variance Tolerance Level
+2022-06-08 19:21:57,653 :INFO : test_DashboardSettings :UI elements validated for Cycle over Cycle Forecast Variance Tolerance Level
+2022-06-08 19:21:57,653 :INFO : test_DashboardSettings :To check if data is displayed on UI
+2022-06-08 19:21:57,661 :INFO : test_DashboardSettings :All the columns are seen right in the Cycle over Cycle Forecast Variance Tolerance Level view
+2022-06-08 19:21:58,948 :INFO : test_DashboardSettings :Value updated in Forecast Comparison Red Tolerance field and saved
+2022-06-08 19:22:03,091 :INFO : test_DashboardSettings :Value updated in Forecast Comparison Red Tolerance field and saved
+2022-06-08 19:22:07,255 :INFO : test_DashboardSettings :Value updated in Rolling Period field and saved
+2022-06-08 19:22:07,255 :INFO : test_DashboardSettings :ACtion button Calculate Release Fcst vs Stat Fcst Variance
+2022-06-08 19:22:11,429 :INFO : test_DashboardSettings :Notification validation
+2022-06-08 19:22:11,430 :INFO : test_DashboardSettings :Action button calculate release fcst vs stat fcst is verified
+2022-06-08 19:22:11,430 :INFO : test_DashboardSettings :ACtion button Calculate Cycle Over Cycle Variance
+2022-06-08 19:22:15,703 :INFO : test_DashboardSettings :Action button calculate Cycle Over Cycle Variance is verified
+2022-06-08 19:22:15,703 :INFO : test_DashboardSettings :Notification validation
+2022-06-08 19:22:15,703 :INFO : test_DashboardSettings :View Outlier Parameters
+2022-06-08 19:22:15,884 :INFO : test_DashboardSettings :Validate Outlier Cleansing Number of Buckets Cleansed Level
+2022-06-08 19:22:18,380 :INFO : test_DashboardSettings :Value updated in ICSV & Item Number of Buckets Cleansed Red Level field and saved
+2022-06-08 19:22:22,720 :INFO : test_DashboardSettings :Value updated in ICSV & Item Number of Buckets Cleansed Yellow Level field and saved
+2022-06-08 19:22:22,720 :INFO : test_DashboardSettings :Validations on Outlier Cleansing Abs Variance level
+2022-06-08 19:22:24,454 :INFO : test_DashboardSettings :Value updated in ICSV and Item Cleansed Vs Actual Abs Variance Red Level field and saved
+2022-06-08 19:22:28,840 :INFO : test_DashboardSettings :Value updated in ICSV and Item Cleansed Vs Actual Abs Variance Yellow Level field and saved
+2022-06-10 10:27:58,746 :INFO : test_e2e :UserNavigated to login page
+2022-06-10 10:28:02,365 :INFO : test_e2e :Logged in Successfully
+2022-06-10 10:28:07,542 :INFO : test_e2e :Clicked on workspace
+2022-06-10 10:28:07,542 :INFO : test_e2e :Wait Till O9 left bar is visible
+2022-06-10 10:28:07,542 :INFO : test_e2e :Navigating to DemandPlanning WS
+2022-06-10 10:28:07,671 :INFO : test_e2e :Navigated to Demand planning WS
+2022-06-10 10:28:07,683 :INFO : test_forecastToDemand :View Forecast tp Demand 
+2022-06-10 10:28:09,273 :INFO : test_forecastToDemand :Navigated to Forecast to Demand
+2022-06-10 10:28:16,155 :INFO : test_DashboardSettings :View Forecast Parameters
+2022-06-10 10:28:16,155 :INFO : test_DashboardSettings :select Dashboard setting option
+2022-06-10 10:28:16,358 :INFO : test_DashboardSettings :Navigated to Dashboard Settings
+2022-06-10 10:28:16,519 :INFO : test_DashboardSettings :Both the views are displayed right on the UI
+2022-06-10 10:28:17,240 :INFO : test_DashboardSettings :3 sub views are verified on Forecast parameters view
+2022-06-10 10:28:17,285 :INFO : test_DashboardSettings :Validations on LM Forecast to Demand History Tolerance Level
+2022-09-02 09:36:34,643 :INFO : test_login :UserNavigated to login page
+2022-09-02 09:36:40,489 :INFO : test_login :Logged in Successfully
+2022-09-02 09:36:50,680 :INFO : test_login :Clicked on workspace
+2022-09-02 09:36:50,680 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-02 09:36:50,680 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-02 09:36:50,811 :INFO : test_login :Navigated to Replenishment WS
+2022-09-02 09:36:50,826 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-02 09:36:53,301 :INFO : test_replenishment :suggestedOrderReview
+2022-09-02 09:37:29,393 :INFO : test_replenishment :Test case 1
+2022-09-02 09:37:29,393 :INFO : test_replenishment :Amended STO
+2022-09-02 09:37:34,999 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 09:37:40,083 :INFO : test_replenishment :Test case 2
+2022-09-02 09:37:40,132 :INFO : test_replenishment :Test case 3
+2022-09-02 09:37:57,907 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-02 09:37:57,907 :INFO : test_replenishment :Test Case 4
+2022-09-02 09:38:14,172 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 09:38:21,307 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-02 09:38:21,307 :INFO : test_replenishment :Test Case 5
+2022-09-02 09:38:21,339 :INFO : test_replenishment :Test case 5 is passed
+2022-09-02 09:38:21,339 :INFO : test_replenishment :Test Case 6
+2022-09-02 09:39:19,164 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-02 09:39:19,164 :INFO : test_replenishment :Test case 7
+2022-09-02 09:39:31,613 :INFO : test_replenishment :Test case 8
+2022-09-02 09:39:31,645 :INFO : test_replenishment :Test Case 9
+2022-09-02 09:39:49,267 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-09-02 09:44:26,473 :INFO : test_login :UserNavigated to login page
+2022-09-02 09:44:32,330 :INFO : test_login :Logged in Successfully
+2022-09-02 09:44:42,526 :INFO : test_login :Clicked on workspace
+2022-09-02 09:44:42,526 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-02 09:44:42,526 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-02 09:44:43,927 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-02 09:45:28,948 :INFO : test_login :UserNavigated to login page
+2022-09-02 09:45:35,654 :INFO : test_login :Logged in Successfully
+2022-09-02 09:45:45,839 :INFO : test_login :Clicked on workspace
+2022-09-02 09:45:45,839 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-02 09:45:45,839 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-02 09:45:45,968 :INFO : test_login :Navigated to Replenishment WS
+2022-09-02 09:45:45,985 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-02 09:45:50,474 :INFO : test_replenishment :suggestedOrderReview
+2022-09-02 09:46:27,107 :INFO : test_replenishment :Test case 1
+2022-09-02 09:46:27,107 :INFO : test_replenishment :Amended STO
+2022-09-02 09:46:32,737 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 09:46:37,836 :INFO : test_replenishment :Test case 2
+2022-09-02 09:46:37,867 :INFO : test_replenishment :Test case 3
+2022-09-02 09:47:08,721 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-02 09:47:08,722 :INFO : test_replenishment :Test Case 4
+2022-09-02 10:05:56,241 :INFO : test_login :UserNavigated to login page
+2022-09-02 10:06:03,200 :INFO : test_login :Logged in Successfully
+2022-09-02 10:06:13,304 :INFO : test_login :Clicked on workspace
+2022-09-02 10:06:13,304 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-02 10:06:13,304 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-02 10:06:13,438 :INFO : test_login :Navigated to Replenishment WS
+2022-09-02 10:06:13,455 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-02 10:06:16,114 :INFO : test_replenishment :suggestedOrderReview
+2022-09-02 10:06:49,720 :INFO : test_replenishment :Test case 1
+2022-09-02 10:06:49,720 :INFO : test_replenishment :Amended STO
+2022-09-02 10:06:55,335 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 10:07:00,425 :INFO : test_replenishment :Test case 2
+2022-09-02 10:07:00,456 :INFO : test_replenishment :Test case 3
+2022-09-02 10:07:18,459 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-02 10:07:18,459 :INFO : test_replenishment :Test Case 4
+2022-09-02 10:07:38,698 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 10:07:45,802 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-02 10:07:45,802 :INFO : test_replenishment :Test Case 5
+2022-09-02 10:07:45,833 :INFO : test_replenishment :Test case 5 is passed
+2022-09-02 10:07:45,833 :INFO : test_replenishment :Test Case 6
+2022-09-02 10:08:47,687 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-02 10:08:47,688 :INFO : test_replenishment :Test case 7
+2022-09-02 10:08:59,390 :INFO : test_replenishment :Test case 8
+2022-09-02 10:08:59,421 :INFO : test_replenishment :Test Case 9
+2022-09-02 10:09:17,003 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-09-02 19:54:27,567 :INFO : test_login :UserNavigated to login page
+2022-09-02 19:54:34,796 :INFO : test_login :Logged in Successfully
+2022-09-02 19:54:45,121 :INFO : test_login :Clicked on workspace
+2022-09-02 19:54:45,121 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-02 19:54:45,121 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-02 19:54:45,232 :INFO : test_login :Navigated to Replenishment WS
+2022-09-02 19:54:45,256 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-02 19:54:48,043 :INFO : test_replenishment :suggestedOrderReview
+2022-09-02 19:55:14,970 :INFO : test_replenishment :Test case 1
+2022-09-02 19:55:14,970 :INFO : test_replenishment :Amended STO
+2022-09-02 19:55:21,220 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 19:55:26,346 :INFO : test_replenishment :Test case 2
+2022-09-02 19:55:26,405 :INFO : test_replenishment :Test case 3
+2022-09-02 19:55:49,438 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-02 19:55:59,985 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-02 19:56:36,907 :INFO : test_login :UserNavigated to login page
+2022-09-02 19:56:44,767 :INFO : test_login :Logged in Successfully
+2022-09-02 19:56:55,021 :INFO : test_login :Clicked on workspace
+2022-09-02 19:56:55,021 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-02 19:56:55,021 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-02 19:56:55,167 :INFO : test_login :Navigated to Replenishment WS
+2022-09-02 19:56:55,206 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-02 19:56:57,994 :INFO : test_replenishment :suggestedOrderReview
+2022-09-02 19:57:26,754 :INFO : test_replenishment :Test case 1
+2022-09-02 19:57:26,754 :INFO : test_replenishment :Amended STO
+2022-09-02 19:57:33,080 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 19:57:38,245 :INFO : test_replenishment :Test case 2
+2022-09-02 19:57:38,307 :INFO : test_replenishment :Test case 3
+2022-09-02 19:57:58,017 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-02 19:57:58,017 :INFO : test_replenishment :Test Case 4
+2022-09-02 19:58:18,775 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 19:58:26,009 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-02 19:58:26,010 :INFO : test_replenishment :Test Case 5
+2022-09-02 19:58:26,067 :INFO : test_replenishment :Test case 5 is passed
+2022-09-02 19:58:26,067 :INFO : test_replenishment :Test Case 6
+2022-09-02 19:59:43,014 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-02 19:59:43,015 :INFO : test_replenishment :Test case 7
+2022-09-02 20:00:05,609 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-02 20:00:05,609 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-02 20:00:10,740 :INFO : test_replenishment :Test case 8
+2022-09-02 20:00:10,786 :INFO : test_replenishment :Test Case 9
+2022-09-02 20:00:30,012 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-09-02 20:00:34,158 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-02 20:00:39,376 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-02 20:00:49,376 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-02 20:00:49,412 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-02 20:00:59,506 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-02 20:01:09,506 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-02 20:01:14,507 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-02 20:01:14,507 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-02 20:01:14,596 :INFO : test_ReplenSchedule :row is selected
+2022-09-02 20:01:19,810 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-02 20:01:24,979 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-02 20:01:30,137 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-02 20:01:35,231 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-02 20:01:40,362 :INFO : test_ReplenSchedule :Day is selected
+2022-09-02 20:01:45,485 :INFO : test_ReplenSchedule :Day is selected
+2022-09-02 20:01:50,533 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-02 20:01:50,533 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-02 20:01:50,565 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-02 20:01:50,779 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-02 20:01:52,792 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-02 20:02:11,225 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-02 20:02:16,335 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-02 20:02:23,349 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-02 20:02:23,349 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-02 20:02:23,349 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-02 20:02:41,917 :INFO : test_ReplenishmentControls :row is selected
+2022-09-02 20:02:47,117 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-02 20:02:52,276 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-02 20:03:53,120 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-09-02 20:03:53,120 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-09-02 20:03:53,152 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-02 20:03:58,393 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-09-02 20:04:09,955 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-09-02 20:04:15,145 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-09-02 20:04:15,145 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-09-13 11:32:12,777 :INFO : test_login :UserNavigated to login page
+2022-09-13 11:32:20,905 :INFO : test_login :Logged in Successfully
+2022-09-13 11:32:31,084 :INFO : test_login :Clicked on workspace
+2022-09-13 11:32:31,084 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 11:32:31,084 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 11:32:31,215 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 11:32:31,232 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 11:32:33,899 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 11:33:00,477 :INFO : test_replenishment :Test case 1
+2022-09-13 11:33:00,477 :INFO : test_replenishment :Amended STO
+2022-09-13 11:33:06,155 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 11:33:11,262 :INFO : test_replenishment :Test case 2
+2022-09-13 11:33:11,293 :INFO : test_replenishment :Test case 3
+2022-09-13 11:33:29,040 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 11:33:29,040 :INFO : test_replenishment :Test Case 4
+2022-09-13 11:34:36,039 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 11:35:26,910 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 11:35:26,910 :INFO : test_replenishment :Test Case 5
+2022-09-13 11:35:26,941 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 11:35:26,941 :INFO : test_replenishment :Test Case 6
+2022-09-13 11:36:26,122 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 11:36:26,123 :INFO : test_replenishment :Test case 7
+2022-09-13 11:37:33,676 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 11:37:33,676 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 11:37:38,773 :INFO : test_replenishment :Test case 8
+2022-09-13 11:37:38,804 :INFO : test_replenishment :Test Case 9
+2022-09-13 11:37:57,046 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-09-13 11:38:01,493 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 11:38:06,638 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 11:38:16,651 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 11:38:16,683 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 11:38:26,774 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 11:38:36,780 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 11:38:41,792 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 11:38:41,792 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 11:38:41,862 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 11:38:46,986 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 11:38:52,102 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 11:38:57,188 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 11:39:02,248 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 11:39:07,343 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 11:39:12,443 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 11:39:17,485 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 11:39:17,485 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 11:39:17,516 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 11:39:17,648 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 11:39:19,656 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 11:39:38,420 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 11:39:43,499 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 11:39:50,516 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 11:39:50,516 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 11:39:50,516 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 11:40:08,951 :INFO : test_ReplenishmentControls :row is selected
+2022-09-13 11:40:14,080 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-13 11:40:19,205 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-13 11:41:19,709 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-09-13 11:41:19,709 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-09-13 11:41:19,725 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 11:41:24,888 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-09-13 11:41:41,973 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-09-13 11:41:47,028 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-09-13 11:41:47,028 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-09-13 15:54:13,011 :INFO : test_login :UserNavigated to login page
+2022-09-13 15:54:19,088 :INFO : test_login :Logged in Successfully
+2022-09-13 15:54:29,294 :INFO : test_login :Clicked on workspace
+2022-09-13 15:54:29,294 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 15:54:29,294 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 15:54:29,429 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 15:54:29,444 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 15:54:32,026 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 15:54:58,567 :INFO : test_replenishment :Test case 1
+2022-09-13 15:54:58,567 :INFO : test_replenishment :Amended STO
+2022-09-13 15:55:04,199 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 15:55:09,294 :INFO : test_replenishment :Test case 2
+2022-09-13 15:55:09,325 :INFO : test_replenishment :Test case 3
+2022-09-13 15:55:27,316 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 15:55:27,316 :INFO : test_replenishment :Test Case 4
+2022-09-13 15:56:32,943 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 15:57:26,338 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 15:57:26,338 :INFO : test_replenishment :Test Case 5
+2022-09-13 15:57:26,358 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 15:57:26,358 :INFO : test_replenishment :Test Case 6
+2022-09-13 15:58:41,240 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 15:58:41,241 :INFO : test_replenishment :Test case 7
+2022-09-13 15:59:51,281 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 15:59:51,281 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 15:59:53,898 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 16:00:04,145 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 16:00:34,499 :INFO : test_login :UserNavigated to login page
+2022-09-13 16:00:40,371 :INFO : test_login :Logged in Successfully
+2022-09-13 16:00:50,578 :INFO : test_login :Clicked on workspace
+2022-09-13 16:00:50,578 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 16:00:50,578 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 16:00:50,708 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 16:00:50,722 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 16:00:53,204 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 16:01:19,088 :INFO : test_replenishment :Test case 1
+2022-09-13 16:01:19,088 :INFO : test_replenishment :Amended STO
+2022-09-13 16:01:24,740 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 16:01:29,853 :INFO : test_replenishment :Test case 2
+2022-09-13 16:01:29,884 :INFO : test_replenishment :Test case 3
+2022-09-13 16:01:47,942 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 16:01:47,942 :INFO : test_replenishment :Test Case 4
+2022-09-13 16:02:55,980 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 16:03:44,785 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 16:03:44,785 :INFO : test_replenishment :Test Case 5
+2022-09-13 16:03:44,816 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 16:03:44,816 :INFO : test_replenishment :Test Case 6
+2022-09-13 16:04:55,240 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 16:04:55,241 :INFO : test_replenishment :Test case 7
+2022-09-13 16:05:16,879 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 16:05:16,879 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 16:06:12,035 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 16:06:22,268 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 16:33:21,723 :INFO : test_login :UserNavigated to login page
+2022-09-13 16:33:29,099 :INFO : test_login :Logged in Successfully
+2022-09-13 16:33:39,305 :INFO : test_login :Clicked on workspace
+2022-09-13 16:33:39,306 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 16:33:39,306 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 16:33:39,460 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 16:33:39,477 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 16:33:57,224 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 16:34:02,342 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 16:34:12,344 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 16:34:23,231 :INFO : test_login :UserNavigated to login page
+2022-09-13 16:34:28,223 :INFO : test_login :Logged in Successfully
+2022-09-13 16:34:38,428 :INFO : test_login :Clicked on workspace
+2022-09-13 16:34:38,428 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 16:34:38,428 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 16:34:39,724 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 16:35:00,250 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 16:35:10,499 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 16:35:28,718 :INFO : test_login :UserNavigated to login page
+2022-09-13 16:35:35,457 :INFO : test_login :Logged in Successfully
+2022-09-13 16:35:45,659 :INFO : test_login :Clicked on workspace
+2022-09-13 16:35:45,659 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 16:35:45,659 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 16:35:45,778 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 16:35:45,793 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 16:35:48,516 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 16:36:13,630 :INFO : test_replenishment :Test case 1
+2022-09-13 16:36:13,630 :INFO : test_replenishment :Amended STO
+2022-09-13 16:36:19,294 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 16:36:24,374 :INFO : test_replenishment :Test case 2
+2022-09-13 16:36:24,408 :INFO : test_replenishment :Test case 3
+2022-09-13 16:36:42,390 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 16:36:42,390 :INFO : test_replenishment :Test Case 4
+2022-09-13 16:37:46,535 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 16:38:41,425 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 16:38:41,425 :INFO : test_replenishment :Test Case 5
+2022-09-13 16:38:41,456 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 16:38:41,456 :INFO : test_replenishment :Test Case 6
+2022-09-13 16:39:45,783 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 16:39:45,783 :INFO : test_replenishment :Test case 7
+2022-09-13 16:40:51,998 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 16:40:51,998 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 16:40:54,631 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 16:41:04,927 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 17:36:52,112 :INFO : test_login :UserNavigated to login page
+2022-09-13 17:36:57,567 :INFO : test_login :Logged in Successfully
+2022-09-13 17:37:07,769 :INFO : test_login :Clicked on workspace
+2022-09-13 17:37:07,769 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 17:37:07,769 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 17:37:07,898 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 17:37:07,914 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 17:37:10,391 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 17:37:36,219 :INFO : test_replenishment :Test case 1
+2022-09-13 17:37:36,219 :INFO : test_replenishment :Amended STO
+2022-09-13 17:37:41,898 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 17:37:46,987 :INFO : test_replenishment :Test case 2
+2022-09-13 17:37:47,018 :INFO : test_replenishment :Test case 3
+2022-09-13 17:38:04,825 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 17:38:04,825 :INFO : test_replenishment :Test Case 4
+2022-09-13 17:39:14,671 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 17:40:07,757 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 17:40:07,757 :INFO : test_replenishment :Test Case 5
+2022-09-13 17:40:07,788 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 17:40:07,788 :INFO : test_replenishment :Test Case 6
+2022-09-13 17:41:05,046 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 17:41:05,046 :INFO : test_replenishment :Test case 7
+2022-09-13 17:42:10,989 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 17:42:10,989 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 17:42:13,556 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 17:42:23,862 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 17:51:19,668 :INFO : test_login :UserNavigated to login page
+2022-09-13 17:51:26,970 :INFO : test_login :Logged in Successfully
+2022-09-13 17:51:37,178 :INFO : test_login :Clicked on workspace
+2022-09-13 17:51:37,178 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 17:51:37,178 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 17:51:37,319 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 17:51:37,339 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 17:51:40,027 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 17:52:06,987 :INFO : test_replenishment :Test case 1
+2022-09-13 17:52:06,987 :INFO : test_replenishment :Amended STO
+2022-09-13 17:52:12,667 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 17:52:17,769 :INFO : test_replenishment :Test case 2
+2022-09-13 17:52:17,800 :INFO : test_replenishment :Test case 3
+2022-09-13 17:52:35,756 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 17:52:35,756 :INFO : test_replenishment :Test Case 4
+2022-09-13 17:53:50,025 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 17:54:48,737 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 17:54:48,737 :INFO : test_replenishment :Test Case 5
+2022-09-13 17:54:48,768 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 17:54:48,768 :INFO : test_replenishment :Test Case 6
+2022-09-13 17:55:49,969 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 17:55:49,969 :INFO : test_replenishment :Test case 7
+2022-09-13 17:57:01,113 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 17:57:01,113 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 17:57:06,197 :INFO : test_replenishment :Test case 8
+2022-09-13 17:57:06,237 :INFO : test_replenishment :Test Case 9
+2022-09-13 17:57:24,162 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-09-13 17:57:28,837 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 17:57:33,978 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 17:57:43,992 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 17:57:44,052 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 17:57:54,144 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 17:58:04,146 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 17:58:09,146 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 17:58:09,146 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 17:58:09,217 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 17:58:14,354 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 17:58:19,464 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 17:58:24,540 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 17:58:29,630 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 17:58:34,728 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 17:58:39,838 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 17:58:44,883 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 17:58:44,883 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 17:58:44,914 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 17:58:45,044 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 17:58:47,056 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 17:59:05,360 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 17:59:10,437 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 17:59:17,450 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 17:59:17,450 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 17:59:17,450 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 17:59:35,907 :INFO : test_ReplenishmentControls :row is selected
+2022-09-13 17:59:41,049 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-13 17:59:46,154 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-13 18:00:46,592 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-09-13 18:00:46,592 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-09-13 18:00:46,592 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 18:00:51,755 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-09-13 18:01:01,787 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-09-13 18:01:06,895 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-09-13 18:01:06,895 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-09-13 18:17:15,443 :INFO : test_login :UserNavigated to login page
+2022-09-13 18:17:21,406 :INFO : test_login :Logged in Successfully
+2022-09-13 18:17:31,606 :INFO : test_login :Clicked on workspace
+2022-09-13 18:17:31,606 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 18:17:31,606 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 18:17:31,739 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 18:17:31,753 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 18:17:34,350 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 18:18:00,240 :INFO : test_replenishment :Test case 1
+2022-09-13 18:18:00,240 :INFO : test_replenishment :Amended STO
+2022-09-13 18:18:05,872 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:18:10,948 :INFO : test_replenishment :Test case 2
+2022-09-13 18:18:10,963 :INFO : test_replenishment :Test case 3
+2022-09-13 18:18:28,912 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 18:18:28,913 :INFO : test_replenishment :Test Case 4
+2022-09-13 18:19:34,678 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:20:28,948 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 18:20:28,948 :INFO : test_replenishment :Test Case 5
+2022-09-13 18:20:28,979 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 18:20:28,979 :INFO : test_replenishment :Test Case 6
+2022-09-13 18:21:27,854 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 18:21:27,854 :INFO : test_replenishment :Test case 7
+2022-09-13 18:22:34,036 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 18:22:34,036 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:22:36,747 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 18:22:46,993 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 18:24:41,307 :INFO : test_login :UserNavigated to login page
+2022-09-13 18:24:46,439 :INFO : test_login :Logged in Successfully
+2022-09-13 18:24:56,679 :INFO : test_login :Clicked on workspace
+2022-09-13 18:24:56,680 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 18:24:56,680 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 18:24:56,774 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 18:24:56,795 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 18:24:58,917 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 18:25:24,947 :INFO : test_replenishment :Test case 1
+2022-09-13 18:25:24,947 :INFO : test_replenishment :Amended STO
+2022-09-13 18:25:30,708 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:25:35,812 :INFO : test_replenishment :Test case 2
+2022-09-13 18:25:35,843 :INFO : test_replenishment :Test case 3
+2022-09-13 18:25:54,043 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 18:25:54,045 :INFO : test_replenishment :Test Case 4
+2022-09-13 18:27:10,026 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:28:14,540 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 18:28:14,540 :INFO : test_replenishment :Test Case 5
+2022-09-13 18:28:14,587 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 18:28:14,587 :INFO : test_replenishment :Test Case 6
+2022-09-13 18:29:19,862 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 18:29:19,862 :INFO : test_replenishment :Test case 7
+2022-09-13 18:29:41,524 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 18:29:41,524 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:30:37,063 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 18:30:42,203 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 18:30:52,214 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 18:30:52,243 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 18:31:02,360 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 18:31:12,361 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 18:31:17,367 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 18:31:17,367 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 18:31:17,465 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 18:31:22,616 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 18:31:27,744 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 18:31:32,842 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 18:31:37,904 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 18:31:43,113 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 18:31:48,217 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 18:31:53,268 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 18:31:53,268 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 18:31:53,288 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 18:31:53,460 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 18:31:55,471 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 18:32:13,926 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 18:32:19,025 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 18:32:26,037 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 18:32:26,037 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 18:32:26,037 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 18:32:44,838 :INFO : test_ReplenishmentControls :row is selected
+2022-09-13 18:32:50,073 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-13 18:32:55,219 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-13 18:42:39,529 :INFO : test_login :UserNavigated to login page
+2022-09-13 18:42:44,901 :INFO : test_login :Logged in Successfully
+2022-09-13 18:42:55,111 :INFO : test_login :Clicked on workspace
+2022-09-13 18:42:55,111 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 18:42:55,111 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 18:42:55,182 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 18:42:55,195 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 18:42:57,930 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 18:43:24,830 :INFO : test_replenishment :Test case 1
+2022-09-13 18:43:24,830 :INFO : test_replenishment :Amended STO
+2022-09-13 18:43:30,494 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:43:35,589 :INFO : test_replenishment :Test case 2
+2022-09-13 18:43:35,620 :INFO : test_replenishment :Test case 3
+2022-09-13 18:44:06,495 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 18:44:06,495 :INFO : test_replenishment :Test Case 4
+2022-09-13 18:44:26,954 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 18:44:37,179 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 18:45:01,488 :INFO : test_login :UserNavigated to login page
+2022-09-13 18:45:07,607 :INFO : test_login :Logged in Successfully
+2022-09-13 18:45:17,802 :INFO : test_login :Clicked on workspace
+2022-09-13 18:45:17,802 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 18:45:17,802 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 18:45:17,927 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 18:45:17,943 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 18:45:20,417 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 18:45:46,218 :INFO : test_replenishment :Test case 1
+2022-09-13 18:45:46,218 :INFO : test_replenishment :Amended STO
+2022-09-13 18:45:51,884 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:45:56,976 :INFO : test_replenishment :Test case 2
+2022-09-13 18:45:57,008 :INFO : test_replenishment :Test case 3
+2022-09-13 18:46:14,774 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 18:46:14,774 :INFO : test_replenishment :Test Case 4
+2022-09-13 18:47:23,894 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:48:15,520 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-09-13 18:48:15,520 :INFO : test_replenishment :Test Case 5
+2022-09-13 18:48:15,552 :INFO : test_replenishment :Test case 5 is passed
+2022-09-13 18:48:15,552 :INFO : test_replenishment :Test Case 6
+2022-09-13 18:49:16,463 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-09-13 18:49:16,464 :INFO : test_replenishment :Test case 7
+2022-09-13 18:50:42,324 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-09-13 18:50:42,324 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 18:50:52,864 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 18:50:58,113 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 18:51:08,121 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 18:51:08,153 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 18:51:18,253 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 18:51:28,262 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 18:51:33,283 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 18:51:33,283 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 18:51:33,362 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 18:51:38,493 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 18:51:43,577 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 18:51:48,647 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 18:51:53,718 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 18:51:58,854 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 18:52:03,957 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 18:52:08,986 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 18:52:08,986 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 18:52:09,003 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 18:52:09,132 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 18:52:11,137 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 18:52:29,434 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 18:52:34,543 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 18:52:41,557 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 18:52:41,557 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 18:52:41,557 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 19:01:20,375 :INFO : test_login :UserNavigated to login page
+2022-09-13 19:01:25,310 :INFO : test_login :Logged in Successfully
+2022-09-13 19:01:35,511 :INFO : test_login :Clicked on workspace
+2022-09-13 19:01:35,511 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 19:01:35,511 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 19:01:35,636 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 19:01:35,650 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 19:01:38,137 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 19:02:05,211 :INFO : test_replenishment :Test case 1
+2022-09-13 19:02:05,211 :INFO : test_replenishment :Amended STO
+2022-09-13 19:02:10,862 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 19:02:15,922 :INFO : test_replenishment :Test case 2
+2022-09-13 19:02:15,953 :INFO : test_replenishment :Test case 3
+2022-09-13 19:02:34,058 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 19:02:34,059 :INFO : test_replenishment :Test Case 4
+2022-09-13 19:02:53,910 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 19:03:04,193 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 19:03:09,321 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 19:03:19,335 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 19:03:19,373 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 19:03:29,483 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 19:03:39,492 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 19:03:44,512 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 19:03:44,512 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 19:03:44,600 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 19:03:49,805 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 19:03:54,989 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 19:04:00,064 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 19:04:05,155 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 19:04:10,278 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 19:04:15,415 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 19:04:20,458 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 19:04:20,459 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 19:04:20,471 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 19:04:20,604 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 19:04:22,613 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 19:04:41,599 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 19:04:46,675 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 19:04:53,689 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 19:04:53,689 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 19:04:53,689 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 19:05:12,308 :INFO : test_ReplenishmentControls :row is selected
+2022-09-13 19:05:17,535 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-13 19:05:22,710 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-13 19:06:23,551 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-09-13 19:06:23,551 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-09-13 19:06:23,567 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 19:06:28,808 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-09-13 19:06:38,863 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-09-13 19:06:44,000 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-09-13 19:06:44,000 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-09-13 19:37:39,628 :INFO : test_login :UserNavigated to login page
+2022-09-13 19:37:45,141 :INFO : test_login :Logged in Successfully
+2022-09-13 19:37:55,345 :INFO : test_login :Clicked on workspace
+2022-09-13 19:37:55,345 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 19:37:55,345 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 19:37:55,493 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 19:37:55,514 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 19:37:58,022 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 19:38:24,879 :INFO : test_replenishment :Test case 1
+2022-09-13 19:38:24,879 :INFO : test_replenishment :Amended STO
+2022-09-13 19:38:30,536 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 19:38:35,622 :INFO : test_replenishment :Test case 2
+2022-09-13 19:38:35,662 :INFO : test_replenishment :Test case 3
+2022-09-13 19:38:54,635 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 19:38:54,635 :INFO : test_replenishment :Test case 7
+2022-09-13 19:39:15,582 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 19:39:20,734 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 19:39:30,749 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 19:39:30,768 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 19:39:40,883 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 19:39:50,897 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 19:39:55,910 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 19:39:55,911 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 19:39:56,034 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 19:40:01,290 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 19:40:06,443 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 19:40:11,568 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 19:40:16,668 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 19:40:21,809 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 19:40:26,935 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 19:40:31,967 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 19:40:31,967 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 19:40:31,990 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 19:40:32,196 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 19:40:34,211 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 19:40:52,617 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 19:41:01,891 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 19:41:08,893 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 19:41:08,893 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 19:41:08,893 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 19:41:27,460 :INFO : test_ReplenishmentControls :row is selected
+2022-09-13 19:41:32,662 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-13 19:41:37,800 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-13 19:42:38,538 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-09-13 19:42:38,539 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-09-13 19:42:38,555 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 19:42:43,769 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-09-13 19:42:54,179 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-09-13 19:42:59,257 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-09-13 19:42:59,257 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-09-13 20:34:15,145 :INFO : test_login :UserNavigated to login page
+2022-09-13 20:34:21,794 :INFO : test_login :Logged in Successfully
+2022-09-13 20:34:32,018 :INFO : test_login :Clicked on workspace
+2022-09-13 20:34:32,018 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-13 20:34:32,018 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-13 20:34:32,151 :INFO : test_login :Navigated to Replenishment WS
+2022-09-13 20:34:32,172 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-13 20:34:34,798 :INFO : test_replenishment :suggestedOrderReview
+2022-09-13 20:34:59,056 :INFO : test_replenishment :Test case 1
+2022-09-13 20:34:59,056 :INFO : test_replenishment :Amended STO
+2022-09-13 20:35:04,677 :INFO : test_replenishment :Auto Release STO Flag
+2022-09-13 20:35:09,766 :INFO : test_replenishment :Test case 2
+2022-09-13 20:35:09,785 :INFO : test_replenishment :Test case 3
+2022-09-13 20:35:27,819 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-09-13 20:35:34,268 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-13 20:35:39,394 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-13 20:35:49,406 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-13 20:35:49,437 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-09-13 20:35:59,531 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-09-13 20:36:09,536 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-09-13 20:36:14,537 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-09-13 20:36:14,537 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-09-13 20:36:14,595 :INFO : test_ReplenSchedule :row is selected
+2022-09-13 20:36:19,712 :INFO : test_ReplenSchedule :Clicked on action button
+2022-09-13 20:36:24,807 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-09-13 20:36:29,885 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-09-13 20:36:34,951 :INFO : test_ReplenSchedule :Day name maximized
+2022-09-13 20:36:40,038 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 20:36:45,124 :INFO : test_ReplenSchedule :Day is selected
+2022-09-13 20:36:50,176 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-09-13 20:36:50,176 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-09-13 20:36:50,195 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-13 20:36:50,316 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-13 20:36:52,323 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-09-13 20:37:10,626 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-09-13 20:37:15,731 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-09-13 20:37:22,745 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-09-13 20:37:22,745 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-09-13 20:37:22,746 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-09-13 20:37:41,192 :INFO : test_ReplenishmentControls :row is selected
+2022-09-13 20:37:46,326 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-09-13 20:37:51,436 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-09-13 20:38:51,885 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-09-13 20:38:51,885 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-09-13 20:38:51,906 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-09-13 20:38:57,056 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-09-13 20:39:07,095 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-09-13 20:39:12,196 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-09-13 20:39:12,196 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-09-28 16:33:02,970 :INFO : test_login :UserNavigated to login page
+2022-09-28 16:33:08,996 :INFO : test_login :Logged in Successfully
+2022-09-28 16:33:19,217 :INFO : test_login :Clicked on workspace
+2022-09-28 16:33:19,217 :INFO : test_login :Wait Till O9 left bar is visible
+2022-09-28 16:33:19,217 :INFO : test_login :Navigating to DemandPlanning WS
+2022-09-28 16:33:19,292 :INFO : test_login :Navigated to Replenishment WS
+2022-09-28 16:33:19,308 :INFO : test_replenishment :navigated to Replenishment Data
+2022-09-28 16:33:22,010 :INFO : test_replenishment :suggestedOrderReview
+2022-09-28 16:33:38,682 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-09-28 16:33:43,789 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-09-28 16:33:53,804 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-09-28 16:34:04,110 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-09-28 16:34:04,205 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-09-28 16:34:06,221 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-10-20 10:48:38,899 :INFO : test_login :UserNavigated to login page
+2022-10-20 10:48:44,312 :INFO : test_login :Logged in Successfully
+2022-10-20 10:48:54,589 :INFO : test_login :Clicked on workspace
+2022-10-20 10:48:54,589 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 10:48:54,589 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 10:48:54,709 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 10:48:54,747 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 10:48:57,938 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 10:49:13,570 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 10:49:18,756 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 10:49:28,769 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 10:49:33,989 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 10:49:44,170 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 10:50:00,399 :INFO : test_login :UserNavigated to login page
+2022-10-20 10:50:06,228 :INFO : test_login :Logged in Successfully
+2022-10-20 10:50:17,027 :INFO : test_login :Clicked on workspace
+2022-10-20 10:50:17,027 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 10:50:17,027 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 10:50:17,222 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 10:50:17,259 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 10:50:19,891 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 10:50:43,519 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 10:50:48,734 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 10:50:58,738 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 10:50:58,802 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 10:51:09,038 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 10:51:19,052 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-10-20 10:51:24,058 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-10-20 10:51:24,058 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-10-20 10:51:34,808 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-10-20 10:51:34,989 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-10-20 10:51:36,995 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-10-20 10:51:57,423 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-10-20 10:52:02,650 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-10-20 10:52:09,653 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-10-20 10:52:09,653 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-10-20 10:52:09,653 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-10-20 10:52:28,539 :INFO : test_ReplenishmentControls :row is selected
+2022-10-20 10:52:34,029 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-10-20 10:52:39,283 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-10-20 10:53:41,524 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-10-20 10:53:41,524 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-10-20 10:53:41,545 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-10-20 10:53:46,759 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-10-20 10:53:59,929 :INFO : test_login :UserNavigated to login page
+2022-10-20 10:54:07,539 :INFO : test_login :Logged in Successfully
+2022-10-20 10:54:18,048 :INFO : test_login :Clicked on workspace
+2022-10-20 10:54:18,048 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 10:54:18,048 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 10:54:18,172 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 10:54:18,208 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 10:54:21,798 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 10:54:50,651 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 10:54:55,838 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 10:55:05,847 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 10:55:05,911 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 10:55:16,193 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 10:55:26,196 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-10-20 10:55:31,201 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-10-20 10:55:31,201 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-10-20 10:55:31,919 :INFO : test_ReplenSchedule :row is selected
+2022-10-20 10:55:37,389 :INFO : test_ReplenSchedule :Clicked on action button
+2022-10-20 10:55:42,672 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-10-20 10:55:47,879 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-10-20 10:55:53,109 :INFO : test_ReplenSchedule :Day name maximized
+2022-10-20 10:55:58,339 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 10:56:03,629 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 10:56:08,708 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-10-20 10:56:08,708 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-10-20 10:56:08,750 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-10-20 10:56:09,145 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-10-20 10:56:11,149 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-10-20 10:56:32,696 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-10-20 10:56:37,872 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-10-20 10:56:44,875 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-10-20 10:56:44,876 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-10-20 10:56:44,876 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-10-20 10:57:04,189 :INFO : test_ReplenishmentControls :row is selected
+2022-10-20 10:57:09,529 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-10-20 10:57:14,761 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-10-20 10:58:16,997 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-10-20 10:58:16,998 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-10-20 10:58:17,039 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-10-20 10:58:22,405 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-10-20 10:58:33,995 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-10-20 10:58:39,217 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-10-20 10:58:39,217 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-10-20 11:14:47,657 :INFO : test_login :UserNavigated to login page
+2022-10-20 11:14:54,043 :INFO : test_login :Logged in Successfully
+2022-10-20 11:15:04,225 :INFO : test_login :Clicked on workspace
+2022-10-20 11:15:04,225 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 11:15:04,225 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 11:15:04,363 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 11:15:04,403 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 11:15:07,660 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 11:15:36,355 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 11:15:41,518 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 11:15:51,525 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 11:15:51,575 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 11:16:01,722 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 11:16:11,726 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-10-20 11:16:16,739 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-10-20 11:16:16,739 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-10-20 11:16:16,920 :INFO : test_ReplenSchedule :row is selected
+2022-10-20 11:16:22,360 :INFO : test_ReplenSchedule :Clicked on action button
+2022-10-20 11:16:27,621 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-10-20 11:16:32,808 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-10-20 11:16:38,074 :INFO : test_ReplenSchedule :Day name maximized
+2022-10-20 11:16:43,294 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 11:16:48,455 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 11:16:53,511 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-10-20 11:16:53,511 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-10-20 11:16:53,559 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-10-20 11:16:53,842 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-10-20 11:16:55,848 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-10-20 11:17:14,935 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-10-20 11:17:20,033 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-10-20 11:17:27,035 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-10-20 11:17:27,036 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-10-20 11:17:27,036 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-10-20 11:17:45,896 :INFO : test_ReplenishmentControls :row is selected
+2022-10-20 11:17:51,156 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-10-20 11:17:56,305 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-10-20 11:18:58,195 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-10-20 11:18:58,195 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-10-20 11:18:58,226 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-10-20 11:19:03,462 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-10-20 11:19:13,523 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-10-20 11:19:18,621 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-10-20 11:19:18,621 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-10-20 11:22:25,342 :INFO : test_login :UserNavigated to login page
+2022-10-20 11:22:32,316 :INFO : test_login :Logged in Successfully
+2022-10-20 11:22:43,191 :INFO : test_login :Clicked on workspace
+2022-10-20 11:22:43,191 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 11:22:43,191 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 11:22:43,449 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 11:22:43,506 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 11:22:46,379 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 11:23:27,087 :INFO : test_replenishment :Test case 1
+2022-10-20 11:23:27,087 :INFO : test_replenishment :Amended STO
+2022-10-20 11:23:33,054 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:23:38,381 :INFO : test_replenishment :Test case 2
+2022-10-20 11:23:38,429 :INFO : test_replenishment :Test case 3
+2022-10-20 11:23:58,391 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 11:23:58,391 :INFO : test_replenishment :Test Case 4
+2022-10-20 11:27:16,140 :INFO : test_login :UserNavigated to login page
+2022-10-20 11:27:22,271 :INFO : test_login :Logged in Successfully
+2022-10-20 11:27:32,499 :INFO : test_login :Clicked on workspace
+2022-10-20 11:27:32,499 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 11:27:32,499 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 11:27:32,645 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 11:27:32,699 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 11:27:35,900 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 11:28:15,962 :INFO : test_replenishment :Test case 1
+2022-10-20 11:28:15,962 :INFO : test_replenishment :Amended STO
+2022-10-20 11:28:22,008 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:28:27,353 :INFO : test_replenishment :Test case 2
+2022-10-20 11:28:27,419 :INFO : test_replenishment :Test case 3
+2022-10-20 11:28:48,236 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 11:28:48,236 :INFO : test_replenishment :Test Case 4
+2022-10-20 11:30:23,010 :INFO : test_login :UserNavigated to login page
+2022-10-20 11:30:30,639 :INFO : test_login :Logged in Successfully
+2022-10-20 11:30:40,845 :INFO : test_login :Clicked on workspace
+2022-10-20 11:30:40,845 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 11:30:40,845 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 11:30:41,032 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 11:30:41,077 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 11:30:44,253 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 11:31:24,111 :INFO : test_replenishment :Test case 1
+2022-10-20 11:31:24,111 :INFO : test_replenishment :Amended STO
+2022-10-20 11:31:30,123 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:31:35,448 :INFO : test_replenishment :Test case 2
+2022-10-20 11:31:35,496 :INFO : test_replenishment :Test case 3
+2022-10-20 11:31:55,389 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 11:31:55,389 :INFO : test_replenishment :Test Case 4
+2022-10-20 11:32:02,376 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:33:16,306 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-10-20 11:33:16,306 :INFO : test_replenishment :Test Case 5
+2022-10-20 11:33:16,348 :INFO : test_replenishment :Test case 5 is passed
+2022-10-20 11:33:16,348 :INFO : test_replenishment :Test Case 6
+2022-10-20 11:34:32,618 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-10-20 11:34:32,618 :INFO : test_replenishment :Test case 7
+2022-10-20 11:34:55,010 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-10-20 11:34:55,010 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:36:29,278 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 11:36:34,950 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 11:36:44,957 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 11:36:46,017 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 11:36:56,281 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 11:37:06,288 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-10-20 11:37:11,301 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-10-20 11:37:11,301 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-10-20 11:37:11,474 :INFO : test_ReplenSchedule :row is selected
+2022-10-20 11:37:16,984 :INFO : test_ReplenSchedule :Clicked on action button
+2022-10-20 11:37:22,259 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-10-20 11:37:27,456 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-10-20 11:37:32,636 :INFO : test_ReplenSchedule :Day name maximized
+2022-10-20 11:37:37,890 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 11:37:43,186 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 11:38:00,963 :INFO : test_login :UserNavigated to login page
+2022-10-20 11:38:07,479 :INFO : test_login :Logged in Successfully
+2022-10-20 11:38:17,838 :INFO : test_login :Clicked on workspace
+2022-10-20 11:38:17,838 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 11:38:17,838 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 11:38:18,107 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 11:38:18,161 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 11:38:21,418 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 11:39:01,172 :INFO : test_replenishment :Test case 1
+2022-10-20 11:39:01,172 :INFO : test_replenishment :Amended STO
+2022-10-20 11:39:07,145 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:39:12,948 :INFO : test_replenishment :Test case 2
+2022-10-20 11:39:12,995 :INFO : test_replenishment :Test case 3
+2022-10-20 11:39:33,527 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 11:39:33,527 :INFO : test_replenishment :Test Case 4
+2022-10-20 11:39:40,511 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:40:53,633 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-10-20 11:40:53,633 :INFO : test_replenishment :Test Case 5
+2022-10-20 11:40:53,759 :INFO : test_replenishment :Test case 5 is passed
+2022-10-20 11:40:53,759 :INFO : test_replenishment :Test Case 6
+2022-10-20 11:42:00,119 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-10-20 11:42:00,119 :INFO : test_replenishment :Test case 7
+2022-10-20 11:43:54,544 :INFO : test_login :UserNavigated to login page
+2022-10-20 11:44:00,306 :INFO : test_login :Logged in Successfully
+2022-10-20 11:44:10,618 :INFO : test_login :Clicked on workspace
+2022-10-20 11:44:10,626 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 11:44:10,626 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 11:44:10,764 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 11:44:10,804 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 11:44:14,331 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 11:44:54,502 :INFO : test_replenishment :Test case 1
+2022-10-20 11:44:54,502 :INFO : test_replenishment :Amended STO
+2022-10-20 11:45:01,667 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:45:06,891 :INFO : test_replenishment :Test case 2
+2022-10-20 11:45:06,937 :INFO : test_replenishment :Test case 3
+2022-10-20 11:45:26,648 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 11:45:26,648 :INFO : test_replenishment :Test Case 4
+2022-10-20 11:45:33,374 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:46:34,927 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-10-20 11:46:34,927 :INFO : test_replenishment :Test Case 5
+2022-10-20 11:46:34,958 :INFO : test_replenishment :Test case 5 is passed
+2022-10-20 11:46:34,958 :INFO : test_replenishment :Test Case 6
+2022-10-20 11:47:34,680 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-10-20 11:47:34,681 :INFO : test_replenishment :Test case 7
+2022-10-20 11:47:47,730 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-10-20 11:47:47,730 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 11:48:45,412 :INFO : test_replenishment :Test case 8
+2022-10-20 11:48:45,946 :INFO : test_replenishment :Test Case 9
+2022-10-20 11:49:06,738 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-10-20 11:49:11,168 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 11:49:16,347 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 11:49:26,358 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 11:49:26,883 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 11:49:36,989 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 11:49:46,998 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-10-20 11:49:52,014 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-10-20 11:49:52,014 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-10-20 11:49:52,111 :INFO : test_ReplenSchedule :row is selected
+2022-10-20 11:49:57,782 :INFO : test_ReplenSchedule :Clicked on action button
+2022-10-20 11:50:02,898 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-10-20 11:50:08,006 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-10-20 11:50:13,094 :INFO : test_ReplenSchedule :Day name maximized
+2022-10-20 11:50:18,713 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 11:50:23,832 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 11:50:28,874 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-10-20 11:50:28,874 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-10-20 11:50:28,920 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-10-20 11:50:29,076 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-10-20 11:50:31,086 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-10-20 11:50:49,759 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-10-20 11:50:54,849 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-10-20 11:51:01,856 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-10-20 11:51:01,856 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-10-20 11:51:01,856 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-10-20 11:51:20,419 :INFO : test_ReplenishmentControls :row is selected
+2022-10-20 11:51:25,609 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-10-20 11:51:30,727 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-10-20 11:52:33,009 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-10-20 11:52:33,009 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-10-20 11:52:33,025 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-10-20 11:52:38,426 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-10-20 11:52:48,466 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-10-20 11:52:53,550 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-10-20 11:52:53,550 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-10-20 12:19:11,281 :INFO : test_login :UserNavigated to login page
+2022-10-20 12:19:17,652 :INFO : test_login :Logged in Successfully
+2022-10-20 12:19:28,397 :INFO : test_login :Clicked on workspace
+2022-10-20 12:19:28,397 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 12:19:28,398 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 12:19:28,533 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 12:19:28,552 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 12:19:31,428 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 12:20:11,313 :INFO : test_replenishment :Test case 1
+2022-10-20 12:20:11,313 :INFO : test_replenishment :Amended STO
+2022-10-20 12:20:17,485 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 12:20:22,707 :INFO : test_replenishment :Test case 2
+2022-10-20 12:20:22,723 :INFO : test_replenishment :Test case 3
+2022-10-20 12:20:44,115 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 12:20:44,115 :INFO : test_replenishment :Test Case 4
+2022-10-20 12:20:50,918 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 12:21:49,300 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-10-20 12:21:49,300 :INFO : test_replenishment :Test Case 5
+2022-10-20 12:21:49,333 :INFO : test_replenishment :Test case 5 is passed
+2022-10-20 12:21:49,333 :INFO : test_replenishment :Test Case 6
+2022-10-20 12:22:45,303 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-10-20 12:22:45,303 :INFO : test_replenishment :Test case 7
+2022-10-20 12:22:57,667 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-10-20 12:22:57,667 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 12:23:49,406 :INFO : test_replenishment :Test case 8
+2022-10-20 12:23:49,438 :INFO : test_replenishment :Test Case 9
+2022-10-20 12:24:09,698 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-10-20 12:24:14,359 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 12:24:19,511 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-10-20 12:24:29,514 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-10-20 12:24:29,530 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-10-20 12:24:40,089 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-10-20 12:24:50,096 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-10-20 12:24:55,097 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-10-20 12:24:55,097 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-10-20 12:24:55,144 :INFO : test_ReplenSchedule :row is selected
+2022-10-20 12:25:00,286 :INFO : test_ReplenSchedule :Clicked on action button
+2022-10-20 12:25:05,373 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-10-20 12:25:10,472 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-10-20 12:25:15,556 :INFO : test_ReplenSchedule :Day name maximized
+2022-10-20 12:25:21,164 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 12:25:26,779 :INFO : test_ReplenSchedule :Day is selected
+2022-10-20 12:25:31,811 :INFO : test_ReplenSchedule :Day of week column value displayed correctly
+2022-10-20 12:25:31,811 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items is PASSED
+2022-10-20 12:25:31,827 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-10-20 12:25:32,030 :INFO : test_ReplenishmentControls :Navigated to Replenishment Controls page
+2022-10-20 12:25:34,045 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag
+2022-10-20 12:25:53,052 :INFO : test_ReplenishmentControls :Navigated to view1
+2022-10-20 12:25:58,130 :INFO : test_ReplenishmentControls :Clicked on unchecked measure checkbox
+2022-10-20 12:26:05,132 :INFO : test_ReplenishmentControls :Measure checkbox edited successfully
+2022-10-20 12:26:05,132 :INFO : test_ReplenishmentControls :RP:Test Case 12 :Editability of measures-:Auto Release STO flag is PASSED
+2022-10-20 12:26:05,132 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update
+2022-10-20 12:26:24,250 :INFO : test_ReplenishmentControls :row is selected
+2022-10-20 12:26:29,440 :INFO : test_ReplenishmentControls :Clicked on action button
+2022-10-20 12:26:35,063 :INFO : test_ReplenishmentControls :Clicked on Select All in Itemlist
+2022-10-20 12:27:37,200 :INFO : test_ReplenishmentControls :Action button worked correctly
+2022-10-20 12:27:37,200 :INFO : test_ReplenishmentControls :RP:Test Case 15 :Action Button- DC multiple Update is PASSED
+2022-10-20 12:27:37,216 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2022-10-20 12:27:42,908 :INFO : test_DCSourcingRule :Navigated to DC Sourcing page
+2022-10-20 12:27:53,451 :INFO : test_DCSourcingRule :Editable measure column displayed
+2022-10-20 12:27:58,524 :INFO : test_DCSourcingRule :DC Sourcing Flag is editable
+2022-10-20 12:27:58,524 :INFO : test_DCSourcingRule :RP:Test Case 16:Editable Measure-:Dc Sourcing Flag is PASSED
+2022-10-20 13:11:28,519 :INFO : test_login :UserNavigated to login page
+2022-10-20 13:11:34,057 :INFO : test_login :Logged in Successfully
+2022-10-20 13:13:38,154 :INFO : test_login :UserNavigated to login page
+2022-10-20 13:13:45,879 :INFO : test_login :Logged in Successfully
+2022-10-20 13:13:56,117 :INFO : test_login :Clicked on workspace
+2022-10-20 13:13:56,117 :INFO : test_login :Wait Till O9 left bar is visible
+2022-10-20 13:13:56,117 :INFO : test_login :Navigating to DemandPlanning WS
+2022-10-20 13:13:56,739 :INFO : test_login :Navigated to Replenishment WS
+2022-10-20 13:13:56,766 :INFO : test_replenishment :navigated to Replenishment Data
+2022-10-20 13:13:59,869 :INFO : test_replenishment :suggestedOrderReview
+2022-10-20 13:14:39,310 :INFO : test_replenishment :Test case 1
+2022-10-20 13:14:39,311 :INFO : test_replenishment :Amended STO
+2022-10-20 13:14:45,046 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 13:14:50,271 :INFO : test_replenishment :Test case 2
+2022-10-20 13:14:50,301 :INFO : test_replenishment :Test case 3
+2022-10-20 13:15:10,693 :INFO : test_replenishment :Test case 3 Completed validation done right
+2022-10-20 13:15:10,693 :INFO : test_replenishment :Test Case 4
+2022-10-20 13:15:17,647 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 13:16:23,593 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 4 is passed
+2022-10-20 13:16:23,594 :INFO : test_replenishment :Test Case 5
+2022-10-20 13:16:23,631 :INFO : test_replenishment :Test case 5 is passed
+2022-10-20 13:16:23,631 :INFO : test_replenishment :Test Case 6
+2022-10-20 13:17:23,663 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 6 is passed
+2022-10-20 13:17:23,663 :INFO : test_replenishment :Test case 7
+2022-10-20 13:17:36,482 :INFO : test_replenishment :Layout is set to make the editable column visible
+2022-10-20 13:17:36,482 :INFO : test_replenishment :Auto Release STO Flag
+2022-10-20 13:18:33,925 :INFO : test_replenishment :Test case 8
+2022-10-20 13:18:33,960 :INFO : test_replenishment :Test Case 9
+2022-10-20 13:18:54,461 :INFO : test_replenishment :Auto Release STO Flag field is editable hence test case 9 is passed
+2022-10-20 13:18:58,950 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-10-20 13:19:04,114 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-11-16 15:33:50,890 :INFO : test_login :UserNavigated to login page
+2022-11-16 15:33:58,232 :INFO : test_login :Logged in Successfully
+2022-11-16 15:34:08,368 :INFO : test_login :Clicked on workspace
+2022-11-16 15:34:08,368 :INFO : test_login :Wait Till O9 left bar is visible
+2022-11-16 15:34:08,368 :INFO : test_login :Navigating to DemandPlanning WS
+2022-11-16 15:34:08,503 :INFO : test_login :Navigated to Replenishment WS
+2022-11-16 15:34:08,526 :INFO : test_replenishment :navigated to Replenishment Data
+2022-11-16 15:34:11,651 :INFO : test_replenishment :suggestedOrderReview
+2022-11-16 15:34:50,192 :INFO : test_ReplenSchedule :Clicked on Parameters page group
+2022-11-16 15:34:55,300 :INFO : test_ReplenSchedule :Navigated to Replen Schedule page
+2022-11-16 15:35:05,314 :INFO : test_ReplenSchedule :RP:TestCase 10 :Editability of measures-:Lock Day of week(Item Update Flag)
+2022-11-16 15:35:05,361 :INFO : test_ReplenSchedule :Lock Day of Week Measure displayed
+2022-11-16 15:35:15,503 :INFO : test_ReplenSchedule :Clicked on unchecked measure checkbox
+2022-11-16 15:35:25,505 :INFO : test_ReplenSchedule :Measure checkbox edited successfully
+2022-11-16 15:35:30,507 :INFO : test_ReplenSchedule :RP:Test Case 10 :Editability of measures-:Lock Day of week(Item Update Flag) is PASSED
+2022-11-16 15:35:30,507 :INFO : test_ReplenSchedule :RP:Test Case 11 :Action button-: Assign Days to Items
+2022-11-16 15:35:30,586 :INFO : test_ReplenSchedule :row is selected
+2022-11-16 15:35:35,899 :INFO : test_ReplenSchedule :Clicked on action button
+2022-11-16 15:35:41,162 :INFO : test_ReplenSchedule :Clicked on Select All in Itemlist
+2022-11-16 15:35:46,269 :INFO : test_ReplenSchedule :Itemlist minimized
+2022-11-16 15:35:51,364 :INFO : test_ReplenSchedule :Day name maximized
+2022-11-16 15:36:06,719 :INFO : test_ReplenishmentControls :Clicked on Parameters page group
+2022-11-16 15:36:08,042 :INFO : test_DCSourcingRule :RP:Test Case 16 :Editable Measure-:Dc Sourcing Flag
+2023-01-10 16:39:59,458 :INFO : test_login :UserNavigated to login page
+2023-01-10 16:40:03,519 :INFO : test_login :Logged in Successfully
+2023-01-10 16:41:32,088 :INFO : test_login :UserNavigated to login page
+2023-01-10 16:41:36,281 :INFO : test_login :Logged in Successfully
+2023-01-10 16:41:49,143 :INFO : test_dataLoad :Current date from UI is saved in CurrentWeek Variable
+2023-01-10 16:41:49,298 :INFO : test_dataLoad :Editting of Production Plan
+2023-01-10 16:41:55,077 :INFO : test_dataLoad :Production plan value successfully
+2023-01-10 16:41:55,077 :INFO : test_dataLoad :Editting of Production Actual
+2023-01-10 16:42:00,871 :INFO : test_dataLoad :Production Actual value successfully
+2023-01-10 16:42:00,871 :INFO : test_dataLoad :Reverting back value to original value
+2023-01-10 16:42:06,505 :INFO : test_dataLoad :Production plan value reverted
+2023-01-10 16:42:12,139 :INFO : test_dataLoad :Production Actual value reverted
+2023-01-10 16:42:12,139 :INFO : test_dataLoad :Capture the current date from debugging workspace
+2023-01-10 16:42:27,366 :INFO : test_dataLoad :Clicked on workspace
+2023-01-10 16:42:27,366 :INFO : test_dataLoad :Wait Till O9 left bar is visible
+2023-01-10 16:42:27,366 :INFO : test_dataLoad :Navigating to Debugging WS
+2023-01-10 16:42:27,650 :INFO : test_dataLoad :Clicked on Debugging Workspace
+2023-01-10 16:42:30,311 :INFO : test_dataLoad :Navigated to Executed Query Tab
+2023-01-10 16:42:31,201 :INFO : test_dataLoad :Selected the Query Editor
+2023-01-10 16:42:33,347 :INFO : test_dataLoad :Query to fetch Infinite OH is passed to Query editor 
+2023-01-10 16:42:33,538 :INFO : test_dataLoad :Clicked on Execute Query Dropdown
+2023-01-10 16:42:35,669 :INFO : test_dataLoad :Clicked on the execute sync Button
+2023-01-10 16:42:40,678 :INFO : test_dataLoad :Fetch the current date 
+2023-01-10 16:42:40,725 :INFO : test_dataLoad :Current date in UI is as same as in the data base
+2023-01-10 16:42:52,606 :INFO : test_dataLoad :Role in FR Prduction is as expected
+2023-01-12 11:52:23,781 :INFO : test_login :UserNavigated to login page
+2023-01-12 11:52:27,869 :INFO : test_login :Logged in Successfully
+2023-01-12 11:52:59,674 :INFO : test_testcase5 :User is navigated to PO shipment entry in Supplier collaberation
+2023-01-12 11:52:59,675 :INFO : test_testcase5 :Test case 5
+2023-01-12 11:53:05,630 :INFO : test_testcase5 :The value is updated for Delivery Plan Field
+2023-01-12 11:53:05,630 :INFO : test_testcase5 :Test case 5 is passed
+2023-01-12 11:53:05,663 :INFO : test_testcase5 :Select a checkbox to split record
+2023-01-12 11:53:10,880 :INFO : test_testcase5 :Split action button is clicked
+2023-01-12 11:53:26,191 :INFO : test_testcase5 :Validate if the 0 split is reflecting
+2023-01-12 11:53:26,191 :INFO : test_testcase5 :Validate error for mismatch dilvery plan qty and shipping qty
+2023-01-12 11:53:39,951 :INFO : test_testcase5 :Error validated 
+2023-01-12 11:53:39,951 :INFO : test_testcase5 :updating shipping qty
+2023-01-12 12:02:43,417 :INFO : test_login :UserNavigated to login page
+2023-01-12 12:02:46,908 :INFO : test_login :Logged in Successfully
+2023-01-12 12:03:18,768 :INFO : test_testcase5 :User is navigated to PO shipment entry in Supplier collaberation
+2023-01-12 12:03:18,768 :INFO : test_testcase5 :Test case 5
+2023-01-12 12:03:24,683 :INFO : test_testcase5 :The value is updated for Delivery Plan Field
+2023-01-12 12:03:24,683 :INFO : test_testcase5 :Test case 5 is passed
+2023-01-12 12:03:24,720 :INFO : test_testcase5 :Select a checkbox to split record
+2023-01-12 12:03:29,964 :INFO : test_testcase5 :Split action button is clicked
+2023-01-12 12:03:45,264 :INFO : test_testcase5 :Validate if the 0 split is reflecting
+2023-01-12 12:03:45,264 :INFO : test_testcase5 :Validate error for mismatch dilvery plan qty and shipping qty
+2023-01-12 12:03:58,984 :INFO : test_testcase5 :Error validated 
+2023-01-12 12:03:58,984 :INFO : test_testcase5 :updating shipping qty
+2023-01-12 12:04:04,394 :INFO : test_testcase5 :updated shipping quantity shipping qty
+2023-01-12 12:06:27,570 :INFO : test_login :UserNavigated to login page
+2023-01-12 12:06:30,873 :INFO : test_login :Logged in Successfully
+2023-01-12 12:07:02,708 :INFO : test_testcase5 :User is navigated to PO shipment entry in Supplier collaberation
+2023-01-12 12:07:02,708 :INFO : test_testcase5 :Test case 5
+2023-01-12 12:07:08,592 :INFO : test_testcase5 :The value is updated for Delivery Plan Field
+2023-01-12 12:07:08,592 :INFO : test_testcase5 :Test case 5 is passed
+2023-01-12 12:07:08,631 :INFO : test_testcase5 :Select a checkbox to split record
+2023-01-12 12:07:13,873 :INFO : test_testcase5 :Split action button is clicked
+2023-01-12 12:07:29,160 :INFO : test_testcase5 :Validate if the 0 split is reflecting
+2023-01-12 12:07:29,160 :INFO : test_testcase5 :Validate error for mismatch dilvery plan qty and shipping qty
+2023-01-12 12:07:42,981 :INFO : test_testcase5 :Error validated 
+2023-01-12 12:07:42,981 :INFO : test_testcase5 :updating shipping qty
+2023-01-12 12:07:53,649 :INFO : test_testcase5 :updated shipping quantity shipping qty
+2023-01-12 12:11:11,859 :INFO : test_login :UserNavigated to login page
+2023-01-12 12:11:14,988 :INFO : test_login :Logged in Successfully
+2023-01-12 12:11:46,799 :INFO : test_testcase5 :User is navigated to PO shipment entry in Supplier collaberation
+2023-01-12 12:11:46,799 :INFO : test_testcase5 :Test case 5
+2023-01-12 12:11:52,692 :INFO : test_testcase5 :The value is updated for Delivery Plan Field
+2023-01-12 12:11:52,692 :INFO : test_testcase5 :Test case 5 is passed
+2023-01-12 12:11:52,730 :INFO : test_testcase5 :Select a checkbox to split record
+2023-01-12 12:11:57,987 :INFO : test_testcase5 :Split action button is clicked
+2023-01-12 12:13:11,122 :INFO : test_login :UserNavigated to login page
+2023-01-12 12:13:14,870 :INFO : test_login :Logged in Successfully
+2023-01-12 12:13:46,714 :INFO : test_testcase5 :User is navigated to PO shipment entry in Supplier collaberation
+2023-01-12 12:13:46,714 :INFO : test_testcase5 :Test case 5
+2023-01-12 12:13:52,708 :INFO : test_testcase5 :The value is updated for Delivery Plan Field
+2023-01-12 12:13:52,708 :INFO : test_testcase5 :Test case 5 is passed
+2023-01-12 12:13:52,743 :INFO : test_testcase5 :Select a checkbox to split record
+2023-01-12 12:13:57,977 :INFO : test_testcase5 :Split action button is clicked
+2023-01-12 12:14:13,262 :INFO : test_testcase5 :Validate if the 0 split is reflecting
+2023-01-12 12:14:13,262 :INFO : test_testcase5 :Validate error for mismatch dilvery plan qty and shipping qty
+2023-01-12 12:14:27,020 :INFO : test_testcase5 :Error validated 
+2023-01-12 12:14:27,020 :INFO : test_testcase5 :updating shipping qty
+2023-01-12 12:14:37,709 :INFO : test_testcase5 :updated shipping quantity shipping qty
+2023-01-12 12:14:37,749 :INFO : test_testcase5 :Error is vanished since the value is matched now
+2023-01-12 12:14:37,750 :INFO : test_testcase5 :test case from 5 to 9 are passed 
+2023-01-12 12:22:41,169 :INFO : test_login :UserNavigated to login page
+2023-01-12 12:22:44,159 :INFO : test_login :Logged in Successfully
+2023-01-12 12:23:16,018 :INFO : test_testcase5 :User is navigated to PO shipment entry in Supplier collaberation
+2023-01-12 12:23:16,018 :INFO : test_testcase5 :Test case 5
+2023-01-12 12:23:21,942 :INFO : test_testcase5 :The value is updated for Delivery Plan Field
+2023-01-12 12:23:21,942 :INFO : test_testcase5 :Test case 5 is passed
+2023-01-12 12:23:21,981 :INFO : test_testcase5 :Select a checkbox to split record
+2023-01-12 12:23:27,248 :INFO : test_testcase5 :Split action button is clicked
+2023-01-12 12:23:42,655 :INFO : test_testcase5 :Validate if the 0 split is reflecting
+2023-01-12 12:23:42,655 :INFO : test_testcase5 :Validate error for mismatch dilvery plan qty and shipping qty
+2023-01-12 12:23:56,441 :INFO : test_testcase5 :Error validated 
+2023-01-12 12:23:56,441 :INFO : test_testcase5 :updating shipping qty
+2023-01-12 12:24:07,164 :INFO : test_testcase5 :updated shipping quantity shipping qty
+2023-01-12 12:24:07,215 :INFO : test_testcase5 :Error is vanished since the value is matched now
+2023-01-12 12:24:07,215 :INFO : test_testcase5 :test case from 5 to 9 are passed 
+2023-01-12 12:24:07,215 :INFO : test_testcase5 :Reverting fields to original Values
+2023-01-12 12:24:39,264 :INFO : test_testcase5 :All values are successfully reverted
