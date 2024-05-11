@@ -1,6 +1,6 @@
 # Python Test Automation Framework [Socrates]
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/400px-Socrate_du_Louvre.jpg?raw=true)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/200px-Socrate_du_Louvre.jpg?raw=true)
 
 
 This is a Python Test Automation Framework designed to facilitate the automated testing of software applications. It provides a structured approach to writing and executing automated tests, making it easier to maintain and scale test suites.
