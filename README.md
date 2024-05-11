@@ -1,4 +1,4 @@
-![image](https://github.com/jatin99/PythonAutomationFramework/assets/2493981/9886de50-431c-4896-823b-cb01463f4b5b)# Python Test Automation Framework [Socrates]
+# Python Test Automation Framework [Socrates]
 
 ![alt text]((https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/800px-Socrate_du_Louvre.jpg)?raw=true)
 
